@@ -1,13 +1,17 @@
 [
     "index.html",
+    "agenda.html",
     "cell-centric.html",
     "ge-intro.html",
     "crispr.html",
+    "crispr-popular.html",
     "failure-modes.html",
-    "engs.md",
+    "platform.html",
     "guide-design.html",
+    "exception.html",
     "donor-design.html",
     "vector-design.html",
     "vector-assembly.html",
+    "about-dtg.html",
     "questions.html"
 ]
